@@ -54,7 +54,7 @@ const projects = [
     title: "SehatKita",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.",
-    image: "/SehatKitaa.svg",
+    image: "/Sehatkitaa.svg",
     link: "#",
   },
   {
